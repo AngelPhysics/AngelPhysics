@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ángel Encinas
+# 👋 Hi, I'm Ángel Encinas Moreno
 
 I'm an aspiring researcher deeply passionate about **astrophysics**, **particle physics**, and especially the fascinating world of **astroparticles and neutrinos**. This GitHub profile is my way of sharing the knowledge, tools, and code I've developed during my academic journey — including projects from my Master's degree and various research experiences.
 
