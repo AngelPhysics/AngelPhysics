@@ -1,27 +1,34 @@
 # 👋 Hi, I'm Ángel Encinas Moreno
 
-I'm an aspiring researcher deeply passionate about fundamental physics. During my studies, I have developed passion for **astrophysics**, **particle physics**, and the fascinating world of **astroparticles**. This GitHub profile is my way of sharing the knowledge, tools, and code I've developed during my academic journey — including projects from my Master's degree and various research experiences.
-
-I'm currently completing a Master's in Physics and Mathematics at the University of Granada, with a strong focus on aspects of theoretical and experimental physics (QFT,
-Standard Model,neutrinos) and of course, with a strong specialization in astrophysics, the core topic of my master’s thesis. At the same time, I’m exploring the intersection between cosmology and particle physics, aiming to contribute to the next generation of astroparticle experiments or astrophysics.
+I'm a PhD student at the **Centro de Astrobiología (CAB, CSIC-INTA)** and the **Universidad Complutense de Madrid**, working on the dusty tori of **active galactic nuclei (AGN)**: what infrared and sub-millimetre observations can tell us about the dust that surrounds and obscures supermassive black holes.
 
 ---
 
-## 🎯 Research Interests
+## 🔭 What I work on
 
-- 🔭 **Astroparticle Physics**: dark matter, cosmic rays, and especially **neutrino physics**
-- 🌌 **Extragalactic Astronomy**: galaxy formation and evolution 
-- 💡 **Multi-messenger Astronomy (FRBs)**: combining radio, optical, and high-energy signals
-- 🧠 **Scientific Computing**: data reduction, modeling, and reproducible workflows in Python
-
-
----
-
-## 🎓 Academic Goals
-
-I'm actively looking for PhD opportunities in **astrophysics or astroparticle physics**.
-I believe in the power of open science and reproducibility — and this GitHub page is my humble contribution to that philosophy.
+- 🌌 **AGN dusty tori**: geometry, covering factor and line-of-sight obscuration of the nuclear dust in nearby Seyfert galaxies
+- 🛰️ **JWST and ALMA**: nuclear mid-infrared spectra and sub-mm continuum
+- 📈 **Torus SED models**: systematic comparison of the main radiative-transfer libraries (CLUMPY, SKIRTOR, CAT3D-WIND, Fritz, CYGNUS and two-phase SKIRT grids) through mid-infrared flux ratios and derived physical parameters
+- 🤖 **Machine-learning emulators** of SED libraries (topic of my MSc thesis)
+- 🧠 **Scientific computing**: data reduction, model grids, reproducible workflows and interactive visualisation in Python
 
 ---
 
-_Thanks for visiting! I hope my work can inspire or help fellow researchers and students._
+## 🛠️ Tools
+
+Python (NumPy, pandas, Matplotlib, scikit-learn, XGBoost) · Jupyter · Streamlit · LaTeX
+
+---
+
+## 📂 Earlier projects
+
+- [GRB 211211A with Fermi GBM](https://github.com/AngelPhysics/Fermi-GBM-GRB-211211A-Data-Analysis-and-Spectral-Evolution): spectral evolution of a gamma-ray burst
+- [EGRET and BATSE catalogues](https://github.com/AngelPhysics/egret-batse-gamma-ray-catalog-analysis): gamma-ray source classification and sky maps
+- [Optical data reduction of NGC 6118](https://github.com/AngelPhysics/AstroData-Reduction-NGC6118-documentation)
+- [IFU data treatment](https://github.com/AngelPhysics/IFU-Data-Treatment)
+
+🎓 MSc in Physics and Mathematics, University of Granada.
+
+---
+
+_I believe in open science and reproducibility. Thanks for visiting!_
