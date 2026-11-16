@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ángel Encinas Moreno
 
-I'm a PhD student at the **Centro de Astrobiología (CAB, CSIC-INTA)** and the **Universidad Complutense de Madrid**, working on the dusty tori of **active galactic nuclei (AGN)**: what infrared and sub-millimetre observations can tell us about the dust that surrounds and obscures supermassive black holes.
+I'm a PhD student at the **Centro de Astrobiología (CAB, CSIC-INTA)** and the **Universidad Complutense de Madrid**, working on the dusty tori of local **active galactic nuclei (AGN)**
 
 ---
 
